@@ -8,5 +8,7 @@ http://paineliptv8.xyz:2082//live/71344099/42968860/9127.ts
 http://paineliptv8.xyz:2082//live/71344099/42968860/20530.ts
 #EXTINF:-1 tvg-id="teste1" tvg-name="globo" tvg-logo="COLAR AQUI O LINK DA IMAGEM DO CANAL" group-title="Globo",teste
 http://paineliptv8.xyz:2082//live/71344099/42968860/81625.ts
+#EXTINF:-1 tvg-id="teste1" tvg-name="Telecine" tvg-logo="COLAR AQUI O LINK DA IMAGEM DO CANAL" group-title="Telecine",teste
+http://paineliptv8.xyz:2082//live/71344099/42968860/30145.ts
 #EXTINF:-1 tvg-logo="COLAR AQUI O LINK DA IMAGEM DO FILME" group-title="terror" ,rogai por nós 
 http://paineliptv8.xyz:2082//movie/71344099/42968860/93399.mp4
